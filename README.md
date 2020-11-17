@@ -1,1 +1,1 @@
-This is the readme
+some changes from a friend
