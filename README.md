@@ -1,1 +1,1 @@
-some changes from a friend and mine too
+more readme stuff
